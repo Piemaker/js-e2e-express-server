@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/omar1900/test-dev-ops/_apis/build/status%2FPiemaker.js-e2e-express-server?branchName=main)](https://dev.azure.com/omar1900/test-dev-ops/_build/latest?definitionId=1&branchName=main)
 ---
 page_type: sample
 languages:
